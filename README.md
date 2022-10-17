@@ -16,6 +16,8 @@ Data about [Google Trends](https://trends.google.com/trends/) was collected with
 
 We could understand some changes in Formula 1 championship and their impact on possible marketing campaigns and contracts. Moreover, it was possible to correlate the racers with the interesting measured with Google Trends, one critical marketing thermometer. In the dashboard’s first version, this relation was made by some DAX formulas. However, we calculated the interest in the terms on each racer day.
 
+[See this dashboard here...](https://app.powerbi.com/view?r=eyJrIjoiNjY1ZTQyNzMtNTExZi00ZmMxLTkzNzktNGYwOTMwYjA1MGY0IiwidCI6ImI4N2IxYmQyLTc5YTItNGY4ZS1hYTljLWYxMDQ2MTVlOGI0NiJ9)
+
 ![Dashboard Evolução (I)](f1_study_case_from_api_0.png)
 
 ![Dashboard Evolução (II)](f1_study_case_from_api_1.png)
